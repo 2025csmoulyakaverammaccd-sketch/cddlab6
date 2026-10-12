@@ -1,1 +1,1 @@
-Wrong message
+Hello from CDD lab
