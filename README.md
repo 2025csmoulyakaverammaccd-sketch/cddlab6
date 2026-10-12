@@ -1,3 +1,6 @@
+
+![Build and Test](https://github.com/2025csmoulyakaverammaccd-sketch/cddlab6/actions/workflows/ci.yml/badge.svg)
+
 [![CI](https://github.com/2025csmoulyakaverammaccd-sketch/cddlab6/actions/workflows/ci.yml/badge.svg)](https://github.com/2025csmoulyakaverammaccd-sketch/cddlab6/actions/workflows/ci.yml)
 # CDD Lab - GitHub Actions
 
